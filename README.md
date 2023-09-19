@@ -1,2 +1,2 @@
 # Python
-Small Projects
+Small Projects - 101 Bro Code
